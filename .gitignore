@@ -1,0 +1,4 @@
+# Ignore my specific background information
+job-search-reconcilliation-answers.txt
+/docs/personalized/
+.DS_Store
