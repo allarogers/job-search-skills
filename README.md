@@ -1,5 +1,5 @@
 
-# Job Search Skills Toolkit for Claude
+# Job Search Skills Toolkit for AI Assistants
 
 ## TLDR: What's in it for you?
 A Claude skills toolkit that took me from **4-6 hours per application** to **40 minutes** per application, retaining my resume voice and the accuracy of my background.
